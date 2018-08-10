@@ -7,3 +7,6 @@ var n2 = 5;
 var result = (n1 > n2) ? "N1 é maior que N2" : "N2 é maior que N1";
 console.log(result)
 ```
+
+
+[Reference ->](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operador_Condicional)
